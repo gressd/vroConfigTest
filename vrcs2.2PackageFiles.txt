@@ -1,0 +1,55 @@
+[2017-01-12 11:13:19.197] [I] post_capture:enter
+[2017-01-12 11:13:19.199] [I]    packageName:com.vmware.pso.gressd.test
+[2017-01-12 11:13:19.200] [I]    packageType:Orchestrator-Package
+[2017-01-12 11:13:19.201] [I]    version:9
+[2017-01-12 11:13:19.202] [I]    requestId:b262dd7b-95fc-4b32-9574-e898926b7ccf
+[2017-01-12 11:13:19.203] [I]    clmRequestId:f21f3602-5c94-489d-99b8-edaf722a742e
+[2017-01-12 11:13:19.204] [I]    branch:master
+[2017-01-12 11:13:19.205] [I]    contentDirectory:/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/
+[2017-01-12 11:13:19.206] [I]    packageId:6fddb7f0-982e-4b92-b084-8362adfbbe06
+[2017-01-12 11:13:19.207] [I]    contentEndpoint:CI-vRO6-Capture
+[2017-01-12 11:13:19.208] [I] exec:ssh:ep:CI-vRO6-Capture
+[2017-01-12 11:13:19.451] [I] exec:result:total 4
+drwx------ 3 root root 4096 Jan 12 16:13 vco
+
+[2017-01-12 11:13:19.660] [I] exec:result:find.
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ScriptModule
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ScriptModule/com
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ScriptModule/com/vmware
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ScriptModule/com/vmware/pso
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ScriptModule/com/vmware/pso/gressdTest
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ScriptModule/com/vmware/pso/gressdTest/gressdAction1.xml
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ScriptModule/com/vmware/pso/gressdTest/gressdAction2.element_info.xml
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ScriptModule/com/vmware/pso/gressdTest/gressdAction2.xml
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ScriptModule/com/vmware/pso/gressdTest/gressdAction1.element_info.xml
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ConfigurationElement
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ConfigurationElement/gressdTestConfig
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ConfigurationElement/gressdTestConfig/gressd Elemet 1.xml
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ConfigurationElement/gressdTestConfig/gressd -Element 3.element_info.xml
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ConfigurationElement/gressdTestConfig/gressd Test element.xml
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ConfigurationElement/gressdTestConfig/gressd Test element.element_info.xml
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ConfigurationElement/gressdTestConfig/gressd Config.xml
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ConfigurationElement/gressdTestConfig/gressd -Element 3.xml
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ConfigurationElement/gressdTestConfig/gressd Elemet 1.element_info.xml
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ConfigurationElement/gressdTestConfig/gressd Config.element_info.xml
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/META-INF
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/META-INF/dunes-meta-inf.xml
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/Workflow
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/Workflow/gressdTest
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/Workflow/gressdTest/gressdTestWf1.element_info.xml
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/Workflow/gressdTest/gressdTestWf2.element_info.xml
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/Workflow/gressdTest/gressdTestWf2.xml
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/Workflow/gressdTest/gressdTestWf1.xml
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ResourceElement
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ResourceElement/Library
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ResourceElement/Library/gressdTestRes
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ResourceElement/Library/gressdTestRes/resourceElement1.txt.element_info.xml
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ResourceElement/Library/gressdTestRes/resourceElement1.txt
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ResourceElement/Library/gressdTestRes/resourceElement2.sh
+/storage/external/master/Orchestrator-Package/6fddb7f0-982e-4b92-b084-8362adfbbe06-v9/vco/content/ResourceElement/Library/gressdTestRes/resourceElement2.sh.element_info.xml
+
+[2017-01-12 11:13:19.662] [I] post_capture:exit
+

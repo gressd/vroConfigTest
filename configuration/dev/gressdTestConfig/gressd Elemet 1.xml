@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<config-element id="223386a4-76f3-4882-accd-33f9f3f86f05"  version="0.0.0" >
+<display-name><![CDATA[gressd Elemet 1]]></display-name>
+<atts>
+<att name='att0' type='string' read-only='false' ></att>
+<att name='att1' type='SecureString' read-only='false' ></att>
+<att name='att2' type='number' read-only='false' ></att>
+<att name='att3' type='boolean' read-only='false' ></att>
+<att name='att4' type='LdapUser' read-only='false' ></att>
+</atts>
+</config-element>
