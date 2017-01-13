@@ -1,7 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<config-element id="ba632b5b-15cb-48ce-bcf3-7fd8d07edbb5" >
-<display-name><![CDATA[gressd Config]]></display-name>
-<atts>
-<att name='myAttribute' type='string' read-only='false' ></att>
-</atts>
-</config-element>

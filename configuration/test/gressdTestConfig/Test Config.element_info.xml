@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
-<properties>
-<comment>Exported from [server]</comment>
-<entry key="categoryPath">gressdTestConfig</entry>
-<entry key="name">gressd Config</entry>
-<entry key="type">ConfigurationElement</entry>
-<entry key="id">ba632b5b-15cb-48ce-bcf3-7fd8d07edbb5</entry>
-</properties>
