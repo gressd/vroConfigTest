@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<config-element id="73e880a8-4537-4b61-ad68-c765082d9274"  version="0.0.0">
+  <display-name><![CDATA[ENV-myStuff]]></display-name>
+  <atts>
+    <att name="devHostName" type="string" read-only="false">
+      <value encoded="n"><![CDATA[https:/DEV_hostName]]></value>
+      <description><![CDATA[dev host name here]]></description>
+    </att>
+    <att name="devStuff" type="Array/string" read-only="false">
+      <value encoded="n"><![CDATA[#{#string#devVal0#;#string#devVal1#}#]]></value>
+      <description><![CDATA[dev Stuff goes in this array]]></description>
+    </att>
+  </atts>
+</config-element>

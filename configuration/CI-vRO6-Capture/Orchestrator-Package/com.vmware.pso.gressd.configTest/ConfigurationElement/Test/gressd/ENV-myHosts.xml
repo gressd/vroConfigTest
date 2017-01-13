@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<config-element id="e2385b9d-b065-40c9-93c1-86175ff85b44"  version="0.0.0">
+  <display-name><![CDATA[ENV-myHosts]]></display-name>
+  <atts>
+    <att name="testHostName" type="string" read-only="false">
+      <value encoded="n"><![CDATA[https:/DEV_hostName]]></value>
+    </att>
+  </atts>
+</config-element>

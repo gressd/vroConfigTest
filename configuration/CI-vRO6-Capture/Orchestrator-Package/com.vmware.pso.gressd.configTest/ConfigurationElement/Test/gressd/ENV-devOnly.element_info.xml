@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE properties SYSTEM "http://java.sun.com/dtd/properties.dtd">
+<properties>
+<comment>Exported from [server]</comment>
+<entry key="categoryPath">Test.gressd</entry>
+<entry key="name">ENV-devOnly</entry>
+<entry key="type">ConfigurationElement</entry>
+<entry key="id">cbb6618c-8a03-40c5-b9b2-3bd2d32abf3e</entry>
+</properties>

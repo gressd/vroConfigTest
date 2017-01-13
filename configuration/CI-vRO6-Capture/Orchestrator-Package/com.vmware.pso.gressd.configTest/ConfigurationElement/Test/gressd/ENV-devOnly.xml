@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<config-element id="cbb6618c-8a03-40c5-b9b2-3bd2d32abf3e"  version="0.0.0">
+  <display-name><![CDATA[ENV-devOnly]]></display-name>
+  <atts>
+    <att name="devName" type="string" read-only="false">
+      <value encoded="n"><![CDATA[developmentStuff]]></value>
+    </att>
+  </atts>
+</config-element>
